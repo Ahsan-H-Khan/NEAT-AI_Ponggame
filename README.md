@@ -7,8 +7,8 @@ The neat algorithm is set up as the following parameters:
 - Only has feed forward connection between nodes, with no recurrent connections, means full connectivity at the start to speed up learning process.
 
 Refrences : 
-https://neat-python.readthedocs.io/en/latest/neat_overview.html 0.92 documentation
-Wikipedia : https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies
-Evolving Neural Networks Through Augmenting Topologies (2002) by stanley et. al. 
+https://neat-python.readthedocs.io/en/latest/neat_overview.html 0.92 documentation <br>
+Wikipedia : https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies  <br>
+Evolving Neural Networks Through Augmenting Topologies (2002) by stanley et. al.  <br>
 Courtesy of :TechWithTim
 
