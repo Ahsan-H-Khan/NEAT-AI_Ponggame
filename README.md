@@ -10,5 +10,5 @@ Refrences :
 https://neat-python.readthedocs.io/en/latest/neat_overview.html 0.92 documentation <br>
 Wikipedia : https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies  <br>
 Evolving Neural Networks Through Augmenting Topologies (2002) by stanley et. al.  <br>
-Courtesy of :TechWithTim
+
 
